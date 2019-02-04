@@ -1,0 +1,17 @@
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\obj\Debug\netcoreapp2.2\win7-x64\ProductService.csproj.CoreCompileInputs.cache
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\obj\Debug\netcoreapp2.2\win7-x64\ProductService.AssemblyInfoInputs.cache
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\obj\Debug\netcoreapp2.2\win7-x64\ProductService.AssemblyInfo.cs
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\hostpolicy.dll
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\hostfxr.dll
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\ProductService.exe
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\ProductService.deps.json
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\ProductService.runtimeconfig.json
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\ProductService.runtimeconfig.dev.json
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\ProductService.dll
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\obj\Debug\netcoreapp2.2\win7-x64\ProductService.csprojAssemblyReference.cache
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\ProductService.pdb
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\Ikea.Models.dll
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\bin\Debug\netcoreapp2.2\win7-x64\Ikea.Models.pdb
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\obj\Debug\netcoreapp2.2\win7-x64\ProductService.csproj.CopyComplete
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\obj\Debug\netcoreapp2.2\win7-x64\ProductService.dll
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\ProductService\obj\Debug\netcoreapp2.2\win7-x64\ProductService.pdb

@@ -1,0 +1,9 @@
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\Ikea.Models\bin\Debug\netcoreapp2.2\Ikea.Models.deps.json
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\Ikea.Models\bin\Debug\netcoreapp2.2\Ikea.Models.dll
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\Ikea.Models\obj\Debug\netcoreapp2.2\Ikea.Models.csproj.CoreCompileInputs.cache
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\Ikea.Models\obj\Debug\netcoreapp2.2\Ikea.Models.AssemblyInfoInputs.cache
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\Ikea.Models\obj\Debug\netcoreapp2.2\Ikea.Models.AssemblyInfo.cs
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\Ikea.Models\bin\Debug\netcoreapp2.2\Ikea.Models.pdb
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\Ikea.Models\obj\Debug\netcoreapp2.2\Ikea.Models.dll
+c:\users\prb1369\documents\visual studio 2017\Projects\IkeaCart1\Ikea.Models\obj\Debug\netcoreapp2.2\Ikea.Models.pdb
+C:\Users\prb1369\Documents\Visual Studio 2017\Projects\IkeaCart1\Ikea.Models\obj\Debug\netcoreapp2.2\Ikea.Models.csprojAssemblyReference.cache
